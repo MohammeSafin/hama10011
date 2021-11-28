@@ -52,10 +52,10 @@
         h1 {
             font-size: 45px;
         }
-        .time {
+        .time h2 {
             margin: 40px 0 40px;
         }
         .time h2 {
-            font-size: 18px;
+            font-size: 13px;
         }
     }
