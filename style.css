@@ -1,4 +1,4 @@
-    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
     * {
         box-sizing: borderbox;
     }
@@ -25,7 +25,7 @@
         margin: -150px 0 40px;
         color: aliceblue;
     }
-     
+    
     .countdown {
         display: flex;
         transform: scale(2);
@@ -50,7 +50,7 @@
     
     @media (max-width:600px) {
         h1 {
-            font-size: 2px;
+            font-size: 45px;
         }
         .time {
             margin: 40px 0 40px;
