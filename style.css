@@ -4,7 +4,7 @@
     }
     
     body {
-        background-image: url();
+        background-image: url(https://mcdn.wallpapersafari.com/medium/96/68/GSoeLW.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center center;
@@ -48,7 +48,7 @@
         align-items: center;
     }
     
-    @media (max-width:400px) {
+    @media (max-width:600px) {
         h1 {
             font-size: 2px;
         }
